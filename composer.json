@@ -1,0 +1,6 @@
+{
+    "name": "aiotest/projectC",
+    "require": {
+        "aiotest/projectB": "1.0.*"
+    }
+}
