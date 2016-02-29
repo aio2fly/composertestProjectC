@@ -1,7 +1,7 @@
 {
     "name": "aiotest/projectC",
     "require": {
-        "aiotest/projectB": "1.0.*"
+        "aiotest/projectB": "dev-master"
     },
     "version": "1.0.0"
 }
